@@ -1,3 +1,3 @@
 ### LeetCode
 
-Solutions to Leetcode problems. I also selected only solutions that are among the top 1%
+Solutions to Leetcode problems. The solution with extension .no.js will be solution that could be improved in performance.
